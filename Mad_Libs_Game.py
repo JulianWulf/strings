@@ -5,3 +5,5 @@ celebrity = input("Enter a Celebrity : ")
 print("Roses are " + color)
 print( Blume + " are blue")
 print("I love " + celebrity)
+
+#results = Pycharm just copy,paste :)
