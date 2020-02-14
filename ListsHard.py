@@ -17,5 +17,5 @@ Brüder2 = Brüder.copy()
 print(Brüder2)
 
 
-
+#results = Pycharm just copy,paste :)
 
