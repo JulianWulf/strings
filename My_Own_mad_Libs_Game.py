@@ -11,3 +11,4 @@ print("Phyton liebt " + name)
 print("Julian liebt " + name2)
 print("Das ist das Ende der " + Confort)
 
+#results = Pycharm just copy,paste :)
