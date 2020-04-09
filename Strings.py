@@ -2,7 +2,7 @@ print("ich mag Python" + " und Kali Linux")
 a = 3
 b = 3
 a2 = 4
-print("ich lerne in der woche " + str(a) + " bis " + str(a2) + " mal Python ")
+print("ich sitze in der woche " + str(a) + " bis " + str(a2) + " mal an Python ")
 
 Dez = 5.5
 Dez2 = 6.6
