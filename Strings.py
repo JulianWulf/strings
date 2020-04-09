@@ -1,4 +1,4 @@
-print("ich mag Python" + "und Kali Linux")
+print("ich mag Python" + " und Kali Linux")
 a = 3
 b = 3
 a2 = 4
