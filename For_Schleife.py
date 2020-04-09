@@ -1,4 +1,4 @@
-Family = ["Julian","Andreas","Valentin","Anton","Mama","Papa"]
+Family = ["HTML","PHP","Kotlin","Python","KaliLinux","Java"]
 
 for element in Family:
     print(element)
