@@ -1,7 +1,7 @@
 
-Family = ["Julian","Andreas","Valentin","Anton","Mama","Papa"]
-Family.append("Oma")
-Family.append("Opa")
+Family = ["KaliLinux","HTML","CSS","Java","Python","Kotlin"]
+Family.append("C#")
+Family.append("Ruby")
 print(len(Family))
 print(Family)
 
