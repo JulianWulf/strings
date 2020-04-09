@@ -8,6 +8,6 @@ print(float("6.6"))
 print(str(21))
 
 
-a = ["hallo","wie","gehts"]
+a = ["Java","KaliLinux","Python"]
 print("/".join(a))
 print(a)
