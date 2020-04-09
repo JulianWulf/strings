@@ -1,9 +1,9 @@
 # for Schleife break
-Family = ["Julian","Andreas","Valentin","Anton","Mama","Papa"]
+Family = ["Kotlin","PHP","HTML","CSS","Java","Python"]
 
 
 for element in Family:
-    if element == "Valentin":
+    if element == "PHP":
         break
     print(element)
 
@@ -21,9 +21,9 @@ while v < 20:
 
 # for Schleife Continue
 
-Family = ["Julian","Andreas","Valentin","Anton","Mama","Papa"]
+Family = ["Kotlin","PHP","HTML","CSS","Java","Python"]
 for element in Family:
-    if element == "Valentin":
+    if element == "PHP":
         continue
     print(element)
 
