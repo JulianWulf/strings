@@ -1,7 +1,8 @@
-print("ich mag music" + "Ammie Rap")
+print("ich mag Python" + "und Kali Linux")
 a = 3
 b = 3
-print("ich höre in der Woche " + str(a) + " mal Ammie Rap " + " Außerdem habe ich diese Woche " + str(b) + " mal League of Legends gespielt." )
+a2 = 4
+print("ich lerne in der woche " + str(a) + " bis " + str(a2) + " mal Python ")
 
 Dez = 5.5
 Dez2 = 6.6
